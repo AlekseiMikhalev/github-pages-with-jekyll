@@ -1,5 +1,6 @@
-theme: minima
 title: Blog about Journey into Data Science
+date: 2019-10-23
+theme: minima
 author: Aleksei Mikhalev
 email: mikhalev.aleksei1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
